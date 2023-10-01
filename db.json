@@ -1,0 +1,301 @@
+{
+  "hotel": [
+    {
+      "id": 1,
+      "name": "Rixus Delux",
+      "city": "Muğla",
+      "photo": [
+        "/images/res1.jpg"
+      ],
+      "price": 10,
+      "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+    },
+    {
+      "id": 2,
+      "name": "Side-Kum",
+      "city": "İzmir",
+      "photo": [
+        "/images/res2.jpg"
+      ],
+      "price": 10,
+      "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+    },
+    {
+      "id": 3,
+      "name": "Alan Xafira",
+      "city": "Antalya",
+      "photo": [
+        "/images/res3.jpg"
+      ],
+      "price": 10,
+      "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+    },
+    {
+      "id": 4,
+      "name": "Lonicera Hotel",
+      "city": "Aydın",
+      "photo": [
+        "/images/res4.jpg"
+      ],
+      "price": 10,
+      "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+    },
+    {
+      "id": 5,
+      "name": "Alan Xafira",
+      "city": "Antalya",
+      "photo": [
+        "/images/res3.jpg"
+      ],
+      "price": 10,
+      "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+    },
+    {
+      "id": 6,
+      "name": "Lonicera Hotel",
+      "city": "Aydın",
+      "photo": [
+        "/images/res4.jpg"
+      ],
+      "price": 10,
+      "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+    }
+  ],
+  "sepet": [
+    {
+      "item": {
+        "id": 2,
+        "name": "Side-Kum",
+        "city": "İzmir",
+        "photo": [
+          "/images/res2.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 1
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 2
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 3
+    },
+    {
+      "item": {
+        "id": 2,
+        "name": "Side-Kum",
+        "city": "İzmir",
+        "photo": [
+          "/images/res2.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 4
+    },
+    {
+      "item": {
+        "id": 3,
+        "name": "Alan Xafira",
+        "city": "Antalya",
+        "photo": [
+          "/images/res3.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 5
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 6
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 7
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 8
+    },
+    {
+      "item": {
+        "id": 2,
+        "name": "Side-Kum",
+        "city": "İzmir",
+        "photo": [
+          "/images/res2.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 9
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 10
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 11
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 12
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 13
+    },
+    {
+      "item": {
+        "id": 6,
+        "name": "Lonicera Hotel",
+        "city": "Aydın",
+        "photo": [
+          "/images/res4.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 14
+    },
+    {
+      "item": {
+        "id": 5,
+        "name": "Alan Xafira",
+        "city": "Antalya",
+        "photo": [
+          "/images/res3.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 15
+    },
+    {
+      "item": {
+        "id": 4,
+        "name": "Lonicera Hotel",
+        "city": "Aydın",
+        "photo": [
+          "/images/res4.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 16
+    },
+    {
+      "item": {
+        "id": 5,
+        "name": "Alan Xafira",
+        "city": "Antalya",
+        "photo": [
+          "/images/res3.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 17
+    },
+    {
+      "item": {
+        "id": 4,
+        "name": "Lonicera Hotel",
+        "city": "Aydın",
+        "photo": [
+          "/images/res4.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 18
+    }
+  ],
+  "iptalEdilenler": []
+}
