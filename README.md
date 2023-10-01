@@ -18,4 +18,4 @@
 
 ## Proje Gif
 
-![Giff]()
+![Giff](/Screen-Recording-2023-10-01-at-12.16.52.gif)
