@@ -295,6 +295,123 @@
         "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
       },
       "id": 18
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 19
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 20
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 21
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 22
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 23
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 24
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 25
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 26
+    },
+    {
+      "item": {
+        "id": 1,
+        "name": "Rixus Delux",
+        "city": "Muğla",
+        "photo": [
+          "/images/res1.jpg"
+        ],
+        "price": 10,
+        "description": "Odalarımız 2-3 ve aile boyu olmak üzere 3 çeşittir fiyatlar kişi baışıdır"
+      },
+      "id": 27
     }
   ],
   "iptalEdilenler": []
